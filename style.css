@@ -1,0 +1,32 @@
+.form{
+    background-color: black;
+    text-align: center;
+    width: 1500px;
+    font-size: 34px;
+    color: yellow;
+}
+.form input{
+    width: 200px;
+    height: 30px;
+    border-radius: 500px;
+}
+.text1{
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+   
+
+}
+body{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+.btn{
+    background-color: green;
+    width:  1000px;
+    height: 300px;
+    color: white;
+}
+
+
